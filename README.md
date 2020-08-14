@@ -1,3 +1,9 @@
+## About
+This project was made to understand 'React Routing' concepts and how to use API's. This project displays the Covid cases all over world globally and in country wise manner. It also shows 'Weather' condtions according to country and city.
+
+## Live Link
+https://punit29.github.io/Covid-and-Weather-Dashboard/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
