@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aae0e449efbb47be93cdbecb930205db",
+    "revision": "0985525f9a33a24e055dd11cb98ba3c7",
     "url": "/Covid-and-Weather-Dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Covid-and-Weather-Dashboard/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "d0599449cf202a4b0013",
+    "revision": "23aa525d528c14abcbf7",
     "url": "/Covid-and-Weather-Dashboard/static/css/main.8d2dc1b0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Covid-and-Weather-Dashboard/static/js/2.079818eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0599449cf202a4b0013",
-    "url": "/Covid-and-Weather-Dashboard/static/js/main.13d89f70.chunk.js"
+    "revision": "23aa525d528c14abcbf7",
+    "url": "/Covid-and-Weather-Dashboard/static/js/main.59c04340.chunk.js"
   },
   {
     "revision": "a0eff7f33f22ac14d970",

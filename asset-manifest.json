@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Covid-and-Weather-Dashboard/static/css/main.8d2dc1b0.chunk.css",
-    "main.js": "/Covid-and-Weather-Dashboard/static/js/main.13d89f70.chunk.js",
-    "main.js.map": "/Covid-and-Weather-Dashboard/static/js/main.13d89f70.chunk.js.map",
+    "main.js": "/Covid-and-Weather-Dashboard/static/js/main.59c04340.chunk.js",
+    "main.js.map": "/Covid-and-Weather-Dashboard/static/js/main.59c04340.chunk.js.map",
     "runtime-main.js": "/Covid-and-Weather-Dashboard/static/js/runtime-main.124230bf.js",
     "runtime-main.js.map": "/Covid-and-Weather-Dashboard/static/js/runtime-main.124230bf.js.map",
     "static/css/2.11829350.chunk.css": "/Covid-and-Weather-Dashboard/static/css/2.11829350.chunk.css",
     "static/js/2.079818eb.chunk.js": "/Covid-and-Weather-Dashboard/static/js/2.079818eb.chunk.js",
     "static/js/2.079818eb.chunk.js.map": "/Covid-and-Weather-Dashboard/static/js/2.079818eb.chunk.js.map",
     "index.html": "/Covid-and-Weather-Dashboard/index.html",
-    "precache-manifest.4c87d562080687f896f350a88af5be6b.js": "/Covid-and-Weather-Dashboard/precache-manifest.4c87d562080687f896f350a88af5be6b.js",
+    "precache-manifest.57ea8c113cf56a69b166f42a05db26fb.js": "/Covid-and-Weather-Dashboard/precache-manifest.57ea8c113cf56a69b166f42a05db26fb.js",
     "service-worker.js": "/Covid-and-Weather-Dashboard/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Covid-and-Weather-Dashboard/static/css/2.11829350.chunk.css.map",
     "static/css/main.8d2dc1b0.chunk.css.map": "/Covid-and-Weather-Dashboard/static/css/main.8d2dc1b0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.079818eb.chunk.js",
     "static/css/main.8d2dc1b0.chunk.css",
-    "static/js/main.13d89f70.chunk.js"
+    "static/js/main.59c04340.chunk.js"
   ]
 }
